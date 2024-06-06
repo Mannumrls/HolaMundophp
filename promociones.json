@@ -1,0 +1,5085 @@
+[
+  {
+    "nombrePromo": "RETINA-DIABETES",
+    "parameter": "C-MKT-CC-RETINA-DIABETES",
+    "titulo": "C-MKT-CC-RETINA-DIABETES",
+    "vigencia": "2023-12-23",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RETINA-DIABETES",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "WEB-CHECKUP550",
+    "parameter": "C-MKT-CC-WEB-CHECKUP550",
+    "titulo": "C-MKT-CC-WEB-CHECKUP550",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WEB-CHECKUP550",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32886880,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "IGA-CHECKUP550",
+    "parameter": "C-MKT-CC-IGA-CHECKUP550",
+    "titulo": "C-MKT-CC-IGA-CHECKUP550",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["IG"],
+    "mediosCampaigns": {
+      "IG": {
+        "campaign": "IGA-CHECKUP550",
+        "medio": "IG"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32886880,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "TWO-CHECKUP550",
+    "parameter": "C-MKT-CC-TWO-CHECKUP550",
+    "titulo": "C-MKT-CC-TWO-CHECKUP550",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Twitter"],
+    "mediosCampaigns": {
+      "Twitter": {
+        "campaign": "TWO-CHECKUP550",
+        "medio": "Twitter"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32886880,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "GMB-CHECKUP550",
+    "parameter": "C-MKT-CC-GMB-CHECKUP550",
+    "titulo": "C-MKT-CC-GMB-CHECKUP550",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GOOGLEMYBUSINESS"],
+    "mediosCampaigns": {
+      "GOOGLEMYBUSINESS": {
+        "campaign": "GMB-CHECKUP550",
+        "medio": "GOOGLEMYBUSINESS"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32886880,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "CC-CHECKUP550",
+    "parameter": "C-MKT-CC-CC-CHECKUP550",
+    "titulo": "C-MKT-CC-CC-CHECKUP550",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ContactCenter"],
+    "mediosCampaigns": {
+      "ContactCenter": {
+        "campaign": "CC-CHECKUP550",
+        "medio": "ContactCenter"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32886880,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "FBAD-AWARNESS",
+    "parameter": "C-MKT-CC-FBAD-AWARNESS",
+    "titulo": "C-MKT-CC-FBAD-AWARNESS",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FacebookAds"],
+    "mediosCampaigns": {
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-AWARNESS",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "FBAD-CONVERTION",
+    "parameter": "C-MKT-CC-FBAD-CONVERTION",
+    "titulo": "C-MKT-CC-FBAD-CONVERTION",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FacebookAds"],
+    "mediosCampaigns": {
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-CONVERTION",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "FBAD-CONSIDERATION",
+    "parameter": "C-MKT-CC-FBAD-CONSIDERATION",
+    "titulo": "C-MKT-CC-FBAD-CONSIDERATION",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FacebookAds"],
+    "mediosCampaigns": {
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-CONSIDERATION",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "GA-BRANDING-AWARNESS",
+    "parameter": "C-MKT-CC-GA-BRANDING-AWARNESS",
+    "titulo": "C-MKT-CC-GA-BRANDING-AWARNESS",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-BRANDING-AWARNESS",
+        "medio": "GoogleAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "GA-BRANDING-CONSIDERATION",
+    "parameter": "C-MKT-CC-GA-BRANDING-CONSIDERATION",
+    "titulo": "C-MKT-CC-GA-BRANDING-CONSIDERATION",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-BRANDING-CONSIDERATION",
+        "medio": "GoogleAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "GA-BRANDING-CONVERTION",
+    "parameter": "C-MKT-CC-GA-BRANDING-CONVERTION",
+    "titulo": "C-MKT-CC-GA-BRANDING-CONVERTION",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-BRANDING-CONVERTION",
+        "medio": "GoogleAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "SICS",
+    "parameter": "C-MKT-CC-SICS",
+    "titulo": "C-MKT-CC-SICS",
+    "vigencia": "2022-06-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds", "FacebookAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-SICS",
+        "medio": "GoogleAds"
+      },
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-SICS",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "AUROFOLD",
+    "parameter": "C-MKT-CC-AUROFOLD",
+    "titulo": "C-MKT-CC-AUROFOLD",
+    "vigencia": "2022-06-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds", "FacebookAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-FACO-AUROFOLD",
+        "medio": "GoogleAds"
+      },
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-FACO-AUROFOLD",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "AUROVUE",
+    "parameter": "C-MKT-CC-AUROVUE",
+    "titulo": "C-MKT-CC-AUROVUE",
+    "vigencia": "2022-06-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds", "FacebookAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-GA-FACO-AUROVUE",
+        "medio": "GoogleAds"
+      },
+      "FacebookAds": {
+        "campaign": "C-DIG-FBAD-FACO-AUROVUE",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "FB-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-FB-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-FB-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Facebook"],
+    "mediosCampaigns": {
+      "Facebook": {
+        "campaign": "FB-OCULOPLASTIA",
+        "medio": "Facebook"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "TW-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-TW-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-TW-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Twitter"],
+    "mediosCampaigns": {
+      "Twitter": {
+        "campaign": "TW-OCULOPLASTIA",
+        "medio": "Twitter"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "IG-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-IG-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-IG-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Instagram"],
+    "mediosCampaigns": {
+      "Instagram": {
+        "campaign": "IG-OCULOPLASTIA",
+        "medio": "Instagram"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "LK-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-LK-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-LK-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["LK"],
+    "mediosCampaigns": {
+      "LK": {
+        "campaign": "LK-OCULOPLASTIA",
+        "medio": "LK"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "GM-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-GM-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-GM-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Google_My_Business"],
+    "mediosCampaigns": {
+      "Google_My_Business": {
+        "campaign": "GM-OCULOPLASTIA",
+        "medio": "Google_My_Business"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "CC-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-CC-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-CC-OCULOPLASTIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ContactCenter"],
+    "mediosCampaigns": {
+      "ContactCenter": {
+        "campaign": "CC-OCULOPLASTIA",
+        "medio": "ContactCenter"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 32254548,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "RETINA-SEO",
+    "parameter": "C-MKT-CC-RETINA-SEO",
+    "titulo": "C-MKT-CC-RETINA-SEO",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RETINA-SEO",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1748702,
+        "price": "490.00"
+      }
+    ],
+    "edadMinima": 14
+  },
+
+  {
+    "nombrePromo": "FBA-RETINA",
+    "parameter": "C-MKT-CC-FBA-RETINA",
+    "titulo": "C-MKT-CC-FBA-RETINA",
+    "vigencia": "2022-07-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FacebookAds"],
+    "mediosCampaigns": {
+      "FacebookAds": {
+        "campaign": "FBA-RETINA-SEM",
+        "medio": "FacebookAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta retina",
+        "idServicio": 1748702,
+        "price": "490.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "DSA-ALWAYSON",
+    "parameter": "C-MKT-CC-DSA-ALWAYSON",
+    "titulo": "C-MKT-CC-DSA-ALWAYSON",
+    "vigencia": "2022-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "DSA-ALWAYSON",
+        "medio": "GoogleAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta retina",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+  {
+    "nombrePromo": "ECOLANA30",
+    "parameter": "C-MKT-CC-ECOLANA30",
+    "titulo": "C-MKT-CC-ECOLANA30",
+    "vigencia": "2022-08-18",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ECOLANA30",
+        "medio": "RRSS"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "tiposerv": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "FBSEPT249",
+    "parameter": "C-MKT-CC-FBSEPT249",
+    "titulo": "C-MKT-CC-FBSEPT249",
+    "vigencia": "2022-10-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FANPLAYR"],
+    "mediosCampaigns": {
+      "FANPLAYR": {
+        "campaign": "FB-FP-SEPT-249",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "249.00"
+      }
+    ],
+    "edadMinima": 12
+  },
+
+
+  
+
+  {
+    "nombrePromo": "SINDICATOJSVISUAL2022",
+    "parameter": "C-MKT-CC-SINDICATOJSVISUAL2022",
+    "titulo": "C-MKT-CC-SINDICATOJSVISUAL2022",
+    "vigencia": "2022-10-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ASEGURADORA"],
+    "mediosCampaigns": {
+      "ASEGURADORA": {
+        "campaign": "SINDICATOJSVISUAL2022",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "300.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "HSBC299",
+    "parameter": "C-MKT-CC-HSBC299",
+    "titulo": "C-MKT-CC-HSBC299",
+    "vigencia": "2022-10-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAXVALUE-HSBC",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "SCOT299",
+    "parameter": "C-MKT-CC-SCOT299",
+    "titulo": "C-MKT-CC-SCOT299",
+    "vigencia": "2022-10-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAXVALUE-SCOTIABANK",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "CITI299",
+    "parameter": "C-MKT-CC-CITI299",
+    "titulo": "C-MKT-CC-CITI299",
+    "vigencia": "2022-10-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAXVALUE-CITIBANAMEX",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "STB22",
+    "parameter": "C-MKT-CC-STB22",
+    "titulo": "C-MKT-CC-STB22",
+    "vigencia": "2022-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-SCOTIABANK",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "279.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "STBESP22",
+    "parameter": "C-MKT-CC-STBESP22",
+    "titulo": "C-MKT-CC-STBESP22",
+    "vigencia": "2022-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-SCOTIABANK",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": "servicios",
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "FB-PACO",
+    "parameter": "C-MKT-CC-FB-PACO",
+    "titulo": "C-MKT-CC-FB-PACO",
+    "vigencia": "2022-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "FB-PACO",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "249.00"
+      },
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": "1747553",
+        "price": "249.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+
+  {
+    "nombrePromo": "PROMO-BANNER",
+    "parameter": "C-MKT-CC-PROMO-BANNER",
+    "titulo": "C-MKT-CC-PROMO-BANNER",
+    "vigencia": "2022-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FANPLAYR"],
+    "mediosCampaigns": {
+      "FANPLAYR": {
+        "campaign": "PROMO-BANNER",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+
+
+
+  {
+    "nombrePromo": "ROJAS-WEB299",
+    "parameter": "C-MKT-CC-ROJAS-WEB299",
+    "titulo": "C-MKT-CC-ROJAS-WEB299",
+    "vigencia": "2023-01-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ROJAS-WEB299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "DAISYSALAZAR30",
+    "parameter": "C-MKT-CC-DAISYSALAZAR30",
+    "titulo": "C-MKT-CC-DAISYSALAZAR30",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DAISYSALAZAR30",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  
+
+
+  {
+    "nombrePromo": "MAILING-X23",
+    "parameter": "C-MKT-CC-MAILING-X23",
+    "titulo": "C-MKT-CC-MAILING-X23",
+    "vigencia": "2024-01-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["EMAIL"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAILING-X23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "MAILING-C23",
+    "parameter": "C-MKT-CC-MAILING-C23",
+    "titulo": "C-MKT-CC-MAILING-C23",
+    "vigencia": "2024-01-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["EMAIL"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAILING-C23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+  {
+    "nombrePromo": "MAILING-TLA23",
+    "parameter": "C-MKT-CC-MAILING-TLA23",
+    "titulo": "C-MKT-CC-MAILING-TLA23",
+    "vigencia": "2024-01-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["EMAIL"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAILING-TLA23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+
+  {
+    "nombrePromo": "VALLA-X23",
+    "parameter": "C-MKT-CC-VALLA-X23",
+    "titulo": "C-MKT-CC-VALLA-X23",
+    "vigencia": "2025-02-28",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VALLA-X23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VALLA-C23",
+    "parameter": "C-MKT-CC-VALLA-C23",
+    "titulo": "C-MKT-CC-VALLA-C23",
+    "vigencia": "2025-02-28",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VALLA-C23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "MZO-WEB299",
+    "parameter": "C-MKT-CC-MZO-WEB299",
+    "titulo": "C-MKT-CC-MZO-WEB299",
+    "vigencia": "2023-03-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MZO-WEB299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "50DESC-MAILING",
+    "parameter": "C-MKT-CC-50DESC-MAILING",
+    "titulo": "C-MKT-CC-50DESC-MAILING",
+    "vigencia": "2023-03-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "50DESC-MAILING",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "175.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+  {
+    "nombrePromo": "ADSFEB299",
+    "parameter": "C-MKT-CC-ADSFEB299",
+    "titulo": "C-MKT-CC-ADSFEB299",
+    "vigencia": "2023-02-28",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ADSFEB299",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "FB-FP-249",
+    "parameter": "C-MKT-CC-FB-FP-249",
+    "titulo": "C-MKT-CC-FB-FP-249",
+    "vigencia": "2023-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FANPLAYR"],
+    "mediosCampaigns": {
+      "FANPLAYR": {
+        "campaign": "FB-FP-249",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "249.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "SEM-FP-249",
+    "parameter": "C-MKT-CC-SEM-FP-249",
+    "titulo": "C-MKT-CC-SEM-FP-249",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["FANPLAYR"],
+    "mediosCampaigns": {
+      "FANPLAYR": {
+        "campaign": "SEM-FP-249",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "249.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+
+
+  {
+    "nombrePromo": "WEB-PROMOSABADO",
+    "parameter": "C-MKT-CC-WEB-PROMOSABADO",
+    "titulo": "C-MKT-CC-WEB-PROMOSABADO",
+    "vigencia": "2022-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WEB-PROMOSABADO",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta general",
+        "idServicio": 1747553,
+        "price": "200.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-TLA23",
+    "parameter": "C-MKT-CC-VOLANTE-TLA23",
+    "titulo": "C-MKT-CC-VOLANTE-TLA23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-TLA23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "nombrePromo": "VOLANTE-C23",
+    "parameter": "C-MKT-CC-VOLANTE-C23",
+    "titulo": "C-MKT-CC-VOLANTE-C23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-C23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  
+
+
+  {
+    "nombrePromo": "VOLANTE-X23",
+    "parameter": "C-MKT-CC-VOLANTE-X23",
+    "titulo": "C-MKT-CC-VOLANTE-X23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-X23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+ 
+
+  {
+    "nombrePromo": "POSTER-TLA23",
+    "parameter": "C-MKT-CC-POSTER-TLA23",
+    "titulo": "C-MKT-CC-POSTER-TLA23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "POSTER-TLA23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+  {
+    "nombrePromo": "POSTER-C23",
+    "parameter": "C-MKT-CC-POSTER-C23",
+    "titulo": "C-MKT-CC-POSTER-C23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "POSTER-C23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+  {
+    "nombrePromo": "POSTER-X23",
+    "parameter": "C-MKT-CC-POSTER-X23",
+    "titulo": "C-MKT-CC-POSTER-X23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "POSTER-X23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+  {
+    "nombrePromo": "VALLA-TLA23",
+    "parameter": "C-MKT-CC-VALLA-TLA23",
+    "titulo": "C-MKT-CC-VALLA-TLA23",
+    "vigencia": "2023-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VALLA-TLA23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-S",
+    "parameter": "C-MKT-CC-VOLANTE-S",
+    "titulo": "C-MKT-CC-VOLANTE-S",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-S",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-R",
+    "parameter": "C-MKT-CC-VOLANTE-R",
+    "titulo": "C-MKT-CC-VOLANTE-R",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-R",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-E",
+    "parameter": "C-MKT-CC-VOLANTE-E",
+    "titulo": "C-MKT-CC-VOLANTE-E",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-E",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-AR",
+    "parameter": "C-MKT-CC-VOLANTE-AR",
+    "titulo": "C-MKT-CC-VOLANTE-AR",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-AR",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-CH",
+    "parameter": "C-MKT-CC-VOLANTE-CH",
+    "titulo": "C-MKT-CC-VOLANTE-CH",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-CH",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-NA",
+    "parameter": "C-MKT-CC-VOLANTE-NA",
+    "titulo": "C-MKT-CC-VOLANTE-NA",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-NA",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-T",
+    "parameter": "C-MKT-CC-VOLANTE-T",
+    "titulo": "C-MKT-CC-VOLANTE-T",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-T",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-V",
+    "parameter": "C-MKT-CC-VOLANTE-V",
+    "titulo": "C-MKT-CC-VOLANTE-V",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-V",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-COY",
+    "parameter": "C-MKT-CC-VOLANTE-COY",
+    "titulo": "C-MKT-CC-VOLANTE-COY",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-COY",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-N",
+    "parameter": "C-MKT-CC-VOLANTE-N",
+    "titulo": "C-MKT-CC-VOLANTE-N",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-N",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-TL",
+    "parameter": "C-MKT-CC-VOLANTE-TL",
+    "titulo": "C-MKT-CC-VOLANTE-TL",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-TL",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "VOLANTE-B",
+    "parameter": "C-MKT-CC-VOLANTE-B",
+    "titulo": "C-MKT-CC-VOLANTE-B",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VOLANTE-B",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "nombrePromo": "ADSMZO299",
+    "parameter": "C-MKT-CC-ADSMZO299",
+    "titulo": "C-MKT-CC-ADSMZO299",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ADSMZO299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "ABR-WEB299",
+    "parameter": "C-MKT-CC-ABR-WEB299",
+    "titulo": "C-MKT-CC-ABR-WEB299",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ABR-WEB299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+
+  {
+    "nombrePromo": "RRSSABRIL249",
+    "parameter": "C-MKT-CC-RRSSABRIL249",
+    "titulo": "C-MKT-CC-RRSSABRIL249",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSABRIL249",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta niño",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "DIRECTOABRIL299",
+    "parameter": "C-MKT-CC-DIRECTOABRIL299",
+    "titulo": "C-MKT-CC-DIRECTOABRIL299",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIRECTOABRIL299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta niño",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "DIGITAL2X1",
+    "parameter": "C-MKT-CC-DIGITAL2X1",
+    "titulo": "C-MKT-CC-DIGITAL2X1",
+    "vigencia": "2023-05-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+    "mediosCampaigns": {
+      "SEM": {
+        "campaign": "DIGITAL2X1",
+        "campaign_2": "DIGITAL2X1ACOMPANANTE",
+        "medio": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 25
+  },
+  {
+    "nombrePromo": "DIGITAL2X1ACOMPANANTE",
+    "parameter": "C-MKT-CC-DIGITAL2X1ACOMPANANTE",
+    "titulo": "C-MKT-CC-DIGITAL2X1ACOMPANANTE",
+    "vigencia": "2023-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITAL2X1ACOMPANANTE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 25
+  },
+  {
+    "nombrePromo": "DIGITALHAMBURGO20",
+    "parameter": "C-MKT-CC-DIGITALHAMBURGO20",
+    "titulo": "C-MKT-CC-DIGITALHAMBURGO20",
+    "vigencia": "2023-07-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALHAMBURGO20",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "HAMBURGO280",
+    "parameter": "C-MKT-CC-HAMBURGO280",
+    "titulo": "C-MKT-CC-HAMBURGO280",
+    "vigencia": "2023-07-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "HAMBURGO280",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  {
+    "nombrePromo": "DIGITALHAMBURGO280",
+    "parameter": "C-MKT-CC-DIGITALHAMBURGO280",
+    "titulo": "C-MKT-CC-DIGITALHAMBURGO280",
+    "vigencia": "2023-07-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALHAMBURGO280",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITAL30",
+    "parameter": "C-MKT-CC-DIGITAL30",
+    "titulo": "C-MKT-CC-DIGITAL30",
+    "vigencia": "2023-06-06",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITAL30",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALNARVARTE",
+    "parameter": "C-MKT-CC-DIGITALNARVARTE",
+    "titulo": "C-MKT-CC-DIGITALNARVARTE",
+    "vigencia": "2023-05-28",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALNARVARTE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "ANIVERSARIONARVARTE23",
+    "parameter": "C-MKT-CC-ANIVERSARIONARVARTE23",
+    "titulo": "C-MKT-CC-ANIVERSARIONARVARTE23",
+    "vigencia": "2023-05-28",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ANIVERSARIONARVARTE23",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+ 
+  {
+    "nombrePromo": "ADSMAYO299",
+    "parameter": "C-MKT-CC-ADSMAYO299",
+    "titulo": "C-MKT-CC-ADSMAYO299",
+    "vigencia": "2023-06-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ADSMAYO299",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "CC-PEDIATRIA",
+    "parameter": "C-MKT-CC-CC-PEDIATRIA",
+    "titulo": "C-MKT-CC-CC-PEDIATRIA",
+    "vigencia": "2022-09-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ContactCenter"],
+    "mediosCampaigns": {
+      "ContactCenter": {
+        "campaign": "CC-PEDIATRIA",
+        "medio": "ContactCenter"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "CONSULTA NIÑOS",
+        "idServicio": 1747562,
+        "price": "550.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "PERIODICO-S",
+    "parameter": "C-MKT-CC-PERIODICO-S",
+    "titulo": "C-MKT-CC-PERIODICO-S",
+    "vigencia": "2023-07-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "PERIODICO-S",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALTEZONTLE",
+    "parameter": "C-MKT-CC-DIGITALTEZONTLE",
+    "titulo": "C-MKT-CC-DIGITALTEZONTLE",
+    "vigencia": "2023-06-17",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALTEZONTLE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "FIESTASATELITE",
+    "parameter": "C-MKT-CC-FIESTASATELITE",
+    "titulo": "C-MKT-CC-FIESTASATELITE",
+    "vigencia": "2023-06-17",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "FIESTASATELITE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "FIESTATEZONTLE",
+    "parameter": "C-MKT-CC-FIESTATEZONTLE",
+    "titulo": "C-MKT-CC-FIESTATEZONTLE",
+    "vigencia": "2023-06-17",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "FIESTATEZONTLE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALSATELITE",
+    "parameter": "C-MKT-CC-DIGITALSATELITE",
+    "titulo": "C-MKT-CC-DIGITALSATELITE",
+    "vigencia": "2023-06-17",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALSATELITE",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "OFTALMOPEDIATRIA590",
+    "parameter": "C-MKT-CC-OFTALMOPEDIATRIA590",
+    "titulo": "C-MKT-CC-OFTALMOPEDIATRIA590",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "OFTALMOPEDIATRIA590",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "CONSULTA NIÑOS",
+        "idServicio": 1747562,
+        "price": "590.00"
+      }
+    ],
+    "edadMinima": 0
+  },
+  {
+    "nombrePromo": "ESTRABISMO590",
+    "parameter": "C-MKT-CC-ESTRABISMO590",
+    "titulo": "C-MKT-CC-ESTRABISMO590",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ESTRABISMO590",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "CONSULTA NIÑOS",
+        "idServicio": 43720258,
+        "price": "590.00"
+      }
+    ],
+    "edadMinima": 0
+  },
+  {
+    "nombrePromo": "RADIOSALAUNO",
+    "parameter": "C-MKT-CC-RADIOSALAUNO",
+    "titulo": "C-MKT-CC-RADIOSALAUNO",
+    "vigencia": "2023-07-14",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RADIOSALAUNO",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "280.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  
+   {
+    "nombrePromo": "DIGITALGENERAL350",
+    "parameter": "C-MKT-CC-DIGITALGENERAL350",
+    "titulo": "C-MKT-CC-DIGITALGENERAL350",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "TOPGENERAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALGENERAL350",
+        "medio": "SEO",
+		  "utmMedium": "C-GENERAL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALESP590",
+    "parameter": "C-MKT-CC-DIGITALESP590",
+    "titulo": "C-MKT-CC-DIGITALESP590",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "TOPESPECIALIDAD",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALESP590",
+        "medio": "SEO",
+		  "utmMedium": "C-ESP"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "590.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALINTEGRAL0",
+    "parameter": "C-MKT-CC-DIGITALINTEGRAL0",
+    "titulo": "C-MKT-CC-DIGITALINTEGRAL0",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "TOPINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALINTEGRAL0",
+        "medio": "SEO",
+		  "utmMedium": "C-INTEGRAL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1747588,
+        "price": "0.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIGITALCHECKUP550",
+    "parameter": "C-MKT-CC-DIGITALCHECKUP550",
+    "titulo": "C-MKT-CC-DIGITALCHECKUP550",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "TOPCHECKUP",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIGITALCHECKUP550",
+        "medio": "SEO",
+		  "utmMedium": "C-CHECKUP"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "OPTICAGRATISSEO",
+    "parameter": "C-MKT-CC-OPTICAGRATISSEO",
+    "titulo": "C-MKT-CC-OPTICAGRATISSEO",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "DIGITAL",
+	"utmTerm": "INTEGRAL GRATIS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "OPTICAGRATISSEO",
+        "medio": "SEO",
+		  "utmMedium": "CON-INTEGRAL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "tiposerv": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  
+  {
+    "nombrePromo": "VISIONGRATIS",
+    "parameter": "C-MKT-CC-VISIONGRATIS",
+    "titulo": "C-MKT-CC-VISIONGRATIS",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "DIGITAL",
+	"utmTerm": "INTEGRAL GRATIS",
+
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISIONGRATIS",
+        "medio": "SEO",
+		  "utmMedium": "CON-INTEGRAL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "tiposerv": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+
+  {
+    "nombrePromo": "VALLA-AR",
+    "parameter": "C-MKT-CC-VALLA-AR",
+    "titulo": "C-MKT-CC-VALLA-AR",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VALLA-AR",
+        "medio": "SEO",
+		  "utmMedium": ""
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "tiposerv": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SALUDVISUAL",
+    "parameter": "C-MKT-CC-SALUDVISUAL",
+    "titulo": "C-MKT-CC-SALUDVISUAL",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SALUDVISUAL",
+        "medio": "SEO",
+		  "utmMedium": ""
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "tiposerv": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  
+  {
+    "nombrePromo": "SEOMAYO299",
+    "parameter": "C-MKT-CC-SEOMAYO299",
+    "titulo": "C-MKT-CC-SEOMAYO299",
+    "vigencia": "2023-06-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SEOMAYO299",
+        "medio": "SEO",
+		  "utmMedium": ""
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "tiposerv": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "ALANPRUEBA",
+    "parameter": "C-MKT-CC-ALANPRUEBA",
+    "titulo": "C-MKT-CC-ALANPRUEBA",
+    "vigencia": "2023-08-03",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "esCampana2Por1": false,
+    "nombreCampana2Por1": "Sin campaña",
+    "utmContanet": "",
+    "utmTerm": "",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "ALANPRUEBA",
+        "medio": "SEO",
+		  "utmMedium": ""
+  }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "tiposerv": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "OPTICAGRATIS-BOTON",
+    "parameter": "C-MKT-CC-OPTICAGRATIS-BOTON",
+    "titulo": "C-MKT-CC-OPTICAGRATIS-BOTON",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "OPTICAGRATIS",
+	"utmTerm": "PWOPTICA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "OPTICAGRATIS-BOTON",
+        "medio": "SEO",
+		  "utmMedium": "BOTONOPTICA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "tiposerv": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+
+  {
+    "nombrePromo": "C-DIG-DHCATARATAS",
+    "parameter": "C-MKT-CC-C-DIG-DHCATARATAS",
+    "titulo": "C-MKT-CC-C-DIG-DHCATARATAS",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-DHCATARATAS",
+        "medio": "SEO"
+  }
+},
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "C-DIG-FBAD-DHCATARATAS",
+    "parameter": "C-MKT-CC-C-DIG-FBAD-DHCATARATAS",
+    "titulo": "C-MKT-CC-C-DIG-FBAD-DHCATARATAS",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-FBAD-DHCATARATAS",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-GA-BRANDING-AWARNESS",
+    "parameter": "C-MKT-CC-C-DIG-GA-BRANDING-AWARNESS",
+    "titulo": "C-MKT-CC-C-DIG-GA-BRANDING-AWARNESS",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-GA-BRANDING-AWARNESS",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-GA-BRANDING-CONSIDERATION",
+    "parameter": "C-MKT-CC-C-DIG-GA-BRANDING-CONSIDERATION",
+    "titulo": "C-MKT-CC-C-DIG-GA-BRANDING-CONSIDERATION",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-GA-BRANDING-CONSIDERATION",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-GA-BRANDING-CONVERTION",
+    "parameter": "C-MKT-CC-C-DIG-GA-BRANDING-CONVERTION",
+    "titulo": "C-MKT-CC-C-DIG-GA-BRANDING-CONVERTION",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-GA-BRANDING-CONVERTION",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-FBAD-AWARNESS",
+    "parameter": "C-MKT-CC-C-DIG-FBAD-AWARNESS",
+    "titulo": "C-MKT-CC-C-DIG-FBAD-AWARNESS",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-FBAD-AWARNESS",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-FBAD-CONSIDERATION",
+    "parameter": "C-MKT-CC-C-DIG-FBAD-CONSIDERATION",
+    "titulo": "C-MKT-CC-C-DIG-FBAD-CONSIDERATION",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-FBAD-CONSIDERATION",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "C-DIG-FBAD-CONVERTION",
+    "parameter": "C-MKT-CC-C-DIG-FBAD-CONVERTION",
+    "titulo": "C-MKT-CC-C-DIG-FBAD-CONVERTION",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-FBAD-CONVERTION",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+  
+
+  {
+    "nombrePromo": "DHLP-CONSIDERATION",
+    "parameter": "C-MKT-CC-DHLP-CONSIDERATION",
+    "titulo": "C-MKT-CC-DHLP-CONSIDERATION",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DHLP-CONSIDERATION",
+        "medio": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "C-DIG-BING-BRANDING-CONSIDERATION",
+    "parameter": "C-MKT-CC-C-DIG-BING-BRANDING-CONSIDERATION",
+    "titulo": "C-MKT-CC-C-DIG-BING-BRANDING-CONSIDERATION",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["GoogleAds"],
+    "mediosCampaigns": {
+      "GoogleAds": {
+        "campaign": "C-DIG-BING-BRANDING-CONSIDERATION",
+        "medio": "GoogleAds"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta retina",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "edadMinima": 8
+  },
+
+  {
+    "nombrePromo": "WEB-OCULOPLASTIA",
+    "parameter": "C-MKT-CC-WEB-OCULOPLASTIA",
+    "titulo": "C-MKT-CC-WEB-OCULOPLASTIA",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "OPTICAGRATIS",
+	"utmTerm": "PWOPTICA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WEB-OCULOPLASTIA",
+        "medio": "SEO",
+		  "utmMedium": "BOTONOPTICA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "OCP (Oculoplastia)",
+        "idServicio": 32254548,
+        "price": "590.00"
+      }
+    ],
+    "tiposerv": "OCP (Oculoplastia)",
+    "edadMinima": 14
+  },
+  {
+    "nombrePromo": "C-DIG-GOOGLEMB-001",
+    "parameter": "C-MKT-CC-C-DIG-GOOGLEMB-001",
+    "titulo": "C-MKT-CC-C-DIG-GOOGLEMB-001",
+    "vigencia": "2026-12-01",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GMB-CG",
+	"utmTerm": "GMB-AGENDA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-GOOGLEMB-001",
+        "medio": "SEO",
+		  "utmMedium": "GMB"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "tiposerv":"Consulta Adulto",
+    "edadMinima": 6
+
+  },
+  {
+    "nombrePromo": "WEB-LASIK",
+    "parameter": "C-MKT-CC-WEB-LASIK",
+    "titulo": "C-MKT-CC-WEB-LASIK",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GMB-CG",
+	"utmTerm": "GMB-AGENDA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WEB-LASIK",
+        "medio": "SEO",
+		  "utmMedium": "WEB"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Médico Corneólogo",
+        "idServicio": 1803491,
+        "price": "590.00"
+      }
+    ],
+    "edadMinima": 6
+
+  },
+  {
+    "nombrePromo": "SEO249",
+    "parameter": "C-MKT-CC-SEO249",
+    "titulo": "C-MKT-CC-SEO249",
+    "vigencia": "2023-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "PW-SEO",
+	"utmTerm": "PW-SEPTIEMBRE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SEO249",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "249.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "WIDGET-SEO",
+    "parameter": "C-MKT-CC-WIDGET-SEO",
+    "titulo": "C-MKT-CC-WIDGET-SEO",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "WIDGETSALAUNO",
+	"utmTerm": "SALAUNO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WIDGET-SEO",
+        "medio": "SEO",
+		  "utmMedium": "C-GENERAL-SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "249.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "C-DIG-YT-BRANDING1",
+    "parameter": "C-MKT-CC-C-DIG-YT-BRANDING1",
+    "titulo": "C-MKT-CC-C-DIG-YT-BRANDING1",
+    "vigencia": "2024-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "DH-YT",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-YT-BRANDING1",
+        "medio": "SEM",
+		  "utmMedium": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "C-DIG-YT-BRANDING2",
+    "parameter": "C-MKT-CC-C-DIG-YT-BRANDING2",
+    "titulo": "C-MKT-CC-C-DIG-YT-BRANDING2",
+    "vigencia": "2024-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "DH-YT",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-YT-BRANDING2",
+        "medio": "SEM",
+		  "utmMedium": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "C-DIG-YT-BRANDING3",
+    "parameter": "C-MKT-CC-C-DIG-YT-BRANDING3",
+    "titulo": "C-MKT-CC-C-DIG-YT-BRANDING3",
+    "vigencia": "2024-05-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "",
+	"utmTerm": "DH-YT",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-YT-BRANDING3",
+        "medio": "SEM",
+		  "utmMedium": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "BAJAS350",
+    "parameter": "C-MKT-CC-BAJAS350",
+    "titulo": "C-MKT-CC-BAJAS350",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "PW-SEO",
+	"utmTerm": "BAJAS-SEPTIEMBRE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "BAJAS350",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "LAVILLA350",
+    "parameter": "C-MKT-CC-LAVILLA350",
+    "titulo": "C-MKT-CC-LAVILLA350",
+    "vigencia": "2023-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "BANNER-PW",
+	"utmTerm": "PW-VILLA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "LAVILLA350",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSSEO",
+    "parameter": "C-MKT-CC-SMSSEO",
+    "titulo": "C-MKT-CC-SMSSEO",
+    "vigencia": "2024-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMS-SEO",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSSEO",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMS-AD",
+    "parameter": "C-MKT-CC-SMS-AD",
+    "titulo": "C-MKT-CC-SMS-AD",
+    "vigencia": "2024-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMS-SEM",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMS-AD",
+        "medio": "SEM",
+		  "utmMedium": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMS-PLV",
+    "parameter": "C-MKT-CC-SMS-PLV",
+    "titulo": "C-MKT-CC-SMS-PLV",
+    "vigencia": "2024-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["PLV"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMS-SEM",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMS-PLV",
+        "medio": "PLV",
+		  "utmMedium": "PLV"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMS-R",
+    "parameter": "C-MKT-CC-SMS-R",
+    "titulo": "C-MKT-CC-SMS-R",
+    "vigencia": "2024-12-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["RECOMENDADO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMS-SEO",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMS-R",
+        "medio": "RECOMENDADO",
+		  "utmMedium": "RECOMENDADO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VISION23",
+    "parameter": "C-MKT-CC-VISION23",
+    "titulo": "C-MKT-CC-VISION23",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "BANNER-PW",
+	"utmTerm": "PW-VISION",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISION23",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VISIONFB",
+    "parameter": "C-MKT-CC-VISIONFB",
+    "titulo": "C-MKT-CC-VISIONFB",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "FACEBOOK-ADS",
+	"utmTerm": "ADSFB-VISION",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISIONFB",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VISIONR",
+    "parameter": "C-MKT-CC-VISIONR",
+    "titulo": "C-MKT-CC-VISIONR",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "FB-ORGANICO",
+	"utmTerm": "FB-VISION",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISIONR",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VISIONGMB",
+    "parameter": "C-MKT-CC-VISIONGMB",
+    "titulo": "C-MKT-CC-VISIONGMB",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GMB",
+	"utmTerm": "GMB-VISION",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISIONGMB",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VISIONCLINICA",
+    "parameter": "C-MKT-CC-VISIONCLINICA",
+    "titulo": "C-MKT-CC-VISIONCLINICA",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "CLINICA",
+	"utmTerm": "CLINICA-VISION",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VISIONCLINICA",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSSEO",
+    "parameter": "C-MKT-CC-SMSSEO",
+    "titulo": "C-MKT-CC-SMSSEO",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMS-SEO",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSSEO",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPSATELITE",
+    "parameter": "C-MKT-CC-TOPSATELITE",
+    "titulo": "C-MKT-CC-TOPSATELITE",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SATELITE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalSATELITE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPSATELITE",
+        "medio": "SATELITE",
+		  "utmMedium": "SATELITE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPACOXPA",
+    "parameter": "C-MKT-CC-TOPACOXPA",
+    "titulo": "C-MKT-CC-TOPACOXPA",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ACOXPA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalACOXPA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPACOXPA",
+        "medio": "ACOXPA",
+		  "utmMedium": "ACOXPA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPTEZONTLE",
+    "parameter": "C-MKT-CC-TOPTEZONTLE",
+    "titulo": "C-MKT-CC-TOPTEZONTLE",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["TEZONTLE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalTEZONTLE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPTEZONTLE",
+        "medio": "TEZONTLE",
+		  "utmMedium": "TEZONTLE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPROMA",
+    "parameter": "C-MKT-CC-TOPROMA",
+    "titulo": "C-MKT-CC-TOPROMA",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ROMA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalROMA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPROMA",
+        "medio": "ROMA",
+		  "utmMedium": "ROMA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPHAMBURGO",
+    "parameter": "C-MKT-CC-TOPHAMBURGO",
+    "titulo": "C-MKT-CC-TOPHAMBURGO",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["HAMBURGO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalHAMBURGO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPHAMBURGO",
+        "medio": "HAMBURGO",
+		  "utmMedium": "HAMBURGO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPNARVARTE",
+    "parameter": "C-MKT-CC-TOPNARVARTE",
+    "titulo": "C-MKT-CC-TOPNARVARTE",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["NARVARTE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "generalNARVARTE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPNARVARTE",
+        "medio": "NARVARTE",
+		  "utmMedium": "NARVARTE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPASEGURADORAS",
+    "parameter": "C-MKT-CC-TOPASEGURADORAS",
+    "titulo": "C-MKT-CC-TOPASEGURADORAS",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["TODAS"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "aseguradorasTOP",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPASEGURADORAS",
+        "medio": "TODAS",
+		  "utmMedium": "TODAS"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "350.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPSATELITE-ESP",
+    "parameter": "C-MKT-CC-TOPSATELITE-ESP",
+    "titulo": "C-MKT-CC-TOPSATELITE-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SATELITE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadSATELITE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPSATELITE-ESP",
+        "medio": "SATELITE",
+		  "utmMedium": "SATELITE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPACOXPA-ESP",
+    "parameter": "C-MKT-CC-TOPACOXPA-ESP",
+    "titulo": "C-MKT-CC-TOPACOXPA-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ACOXPA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadACOXPA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPACOXPA-ESP",
+        "medio": "ACOXPA",
+		  "utmMedium": "ACOXPA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPTEZONTLE-ESP",
+    "parameter": "C-MKT-CC-TOPTEZONTLE-ESP",
+    "titulo": "C-MKT-CC-TOPTEZONTLE-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["TEZONTLE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadTEZONTLE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPTEZONTLE-ESP",
+        "medio": "TEZONTLE",
+		  "utmMedium": "TEZONTLE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPROMA-ESP",
+    "parameter": "C-MKT-CC-TOPROMA-ESP",
+    "titulo": "C-MKT-CC-TOPROMA-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ROMA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadROMA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPROMA-ESP",
+        "medio": "ROMA",
+		  "utmMedium": "ROMA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPHAMBURGO-ESP",
+    "parameter": "C-MKT-CC-TOPHAMBURGO-ESP",
+    "titulo": "C-MKT-CC-TOPHAMBURGO-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["HAMBURGO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadHAMBURGO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPHAMBURGO-ESP",
+        "medio": "HAMBURGO",
+		  "utmMedium": "HAMBURGO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPNARVARTE-ESP",
+    "parameter": "C-MKT-CC-TOPNARVARTE-ESP",
+    "titulo": "C-MKT-CC-TOPNARVARTE-ESP",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["NARVARTE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "especialidadNARVARTE",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPNARVARTE-ESP",
+        "medio": "NARVARTE",
+		  "utmMedium": "NARVARTE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPSATELITE-VI",
+    "parameter": "C-MKT-CC-TOPSATELITE-VI",
+    "titulo": "C-MKT-CC-TOPSATELITE-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SATELITE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPSATELITE-VI",
+        "medio": "SATELITE",
+		  "utmMedium": "SATELITE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPACOXPA-VI",
+    "parameter": "C-MKT-CC-TOPACOXPA-VI",
+    "titulo": "C-MKT-CC-TOPACOXPA-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ACOXPA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPACOXPA-VI",
+        "medio": "ACOXPA",
+		  "utmMedium": "ACOXPA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPTEZONTLE-VI",
+    "parameter": "C-MKT-CC-TOPTEZONTLE-VI",
+    "titulo": "C-MKT-CC-TOPTEZONTLE-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["TEZONTLE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPTEZONTLE-VI",
+        "medio": "TEZONTLE",
+		  "utmMedium": "TEZONTLE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPROMA-VI",
+    "parameter": "C-MKT-CC-TOPROMA-VI",
+    "titulo": "C-MKT-CC-TOPROMA-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["ROMA"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPROMA-VI",
+        "medio": "ROMA",
+		  "utmMedium": "ROMA"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPHAMBURGO-VI",
+    "parameter": "C-MKT-CC-TOPHAMBURGO-VI",
+    "titulo": "C-MKT-CC-TOPHAMBURGO-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["HAMBURGO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPHAMBURGO-VI",
+        "medio": "HAMBURGO",
+		  "utmMedium": "HAMBURGO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "TOPNARVARTE-VI",
+    "parameter": "C-MKT-CC-TOPNARVARTE-VI",
+    "titulo": "C-MKT-CC-TOPNARVARTE-VI",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["NARVARTE"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "TOPDOCTORS",
+	"utmTerm": "VISIONINTEGRAL",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "TOPNARVARTE-VI",
+        "medio": "NARVARTE",
+		  "utmMedium": "NARVARTE"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "VISION INTEGRAL + GRADUACION",
+        "idServicio": 1803511,
+        "price": "0.00"
+      }
+    ],
+    "servicio": "VISION INTEGRAL + GRADUACION",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RADIOEDUCACION",
+    "parameter": "C-MKT-CC-RADIOEDUCACION",
+    "titulo": "C-MKT-CC-RADIOEDUCACION",
+    "vigencia": "2023-10-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["RADIO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "RADIO-ENTREVISTA",
+	"utmTerm": "MES-DIABETES",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RADIOEDUCACION",
+        "medio": "RADIO",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAILDIABETES",
+    "parameter": "C-MKT-CC-MAILDIABETES",
+    "titulo": "C-MKT-CC-MAILDIABETES",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GMB",
+	"utmTerm": "MAILING",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAILDIABETES",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "590.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DIABETESFB",
+    "parameter": "C-MKT-CC-DIABETESFB",
+    "titulo": "C-MKT-CC-DIABETESFB",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETESFB"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "DIABETESRS",
+	"utmTerm": "AMDRRSS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DIABETES",
+        "medio": "DIABETESFB",
+		  "utmMedium": "DIABETESFB"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAILING400",
+    "parameter": "C-MKT-CC-MAILING400",
+    "titulo": "C-MKT-CC-MAILING400",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETES"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "MAILAMD",
+	"utmTerm": "mailing",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAILING400",
+        "medio": "DIABETES",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RS400",
+    "parameter": "C-MKT-CC-RS400",
+    "titulo": "C-MKT-CC-RS400",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "RRSSpw",
+	"utmTerm": "RRSSweb",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RS400",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "WEB400",
+    "parameter": "C-MKT-CC-WEB400",
+    "titulo": "C-MKT-CC-WEB400",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETES"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "bannerpw",
+	"utmTerm": "bannerweb",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "WEB400",
+        "medio": "DIABETES",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "GMBDIABETES",
+    "parameter": "C-MKT-CC-GMBDIABETES",
+    "titulo": "C-MKT-CC-GMBDIABETES",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GMB",
+	"utmTerm": "GMB-DIABETES",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "GMBDIABETES",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSDIABETES",
+    "parameter": "C-MKT-CC-SMSDIABETES",
+    "titulo": "C-MKT-CC-SMSDIABETES",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "SMSDIABETES ",
+	"utmTerm": "SMS",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSDIABETES",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "POSTER400",
+    "parameter": "C-MKT-CC-POSTER400",
+    "titulo": "C-MKT-CC-POSTER400",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETES"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "POSTER ",
+	"utmTerm": "CLINICAS POSTER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "POSTER400",
+        "medio": "DIABETES",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "AZUCARPOSTER",
+    "parameter": "C-MKT-CC-AZUCARPOSTER",
+    "titulo": "C-MKT-CC-AZUCARPOSTER",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETES"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "POSTER ",
+	"utmTerm": "CLINICAS POSTER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "AZUCARPOSTER",
+        "medio": "DIABETES",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "DMDIABETES",
+    "parameter": "C-MKT-CC-DMDIABETES",
+    "titulo": "C-MKT-CC-DMDIABETES",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["DIABETES"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "POSTER ",
+	"utmTerm": "CLINICAS POSTER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "DMDIABETES",
+        "medio": "DIABETES",
+		  "utmMedium": "DIABETES"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta de Retina",
+        "idServicio": 1748702,
+        "price": "400.00"
+      }
+    ],
+    "servicio": "Consulta de Retina",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSSEOBF",
+    "parameter": "C-MKT-CC-SMSSEOBF",
+    "titulo": "C-MKT-CC-SMSSEOBF",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "WA-BF",
+	"utmTerm": "SEOBUENFIN",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSSEOBF",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSADBF",
+    "parameter": "C-MKT-CC-SMSADBF",
+    "titulo": "C-MKT-CC-SMSADBF",
+    "vigencia": "2023-11-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEM"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "WA-BF",
+	"utmTerm": "SEMBUENFIN",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSADBF",
+        "medio": "SEM",
+		  "utmMedium": "SEM"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "SMSRBF",
+    "parameter": "C-MKT-CC-SMSRBF",
+    "titulo": "C-MKT-CC-SMSRBF",
+    "vigencia": "2023-11-24",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["RECOMENDADO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "WA-BF",
+	"utmTerm": "RECOBUENFIN",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "SMSRBF",
+        "medio": "RECOMENDADO",
+		  "utmMedium": "RECOMENDADO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "245.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VERWEB",
+    "parameter": "C-MKT-CC-VERWEB",
+    "titulo": "C-MKT-CC-VERWEB",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "BANNER-PW",
+	"utmTerm": "VER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VERWEB",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VERFB",
+    "parameter": "C-MKT-CC-VERFB",
+    "titulo": "C-MKT-CC-VERFB",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "FB-ORGANICO",
+	"utmTerm": "VER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VERFB",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VERGOOGLE",
+    "parameter": "C-MKT-CC-VERGOOGLE",
+    "titulo": "C-MKT-CC-VERGOOGLE",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "GOOGLE",
+	"utmTerm": "VER",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VERGOOGLE",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "VERMEJOR",
+    "parameter": "C-MKT-CC-VERMEJOR",
+    "titulo": "C-MKT-CC-VERMEJOR",
+    "vigencia": "2023-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": [""],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "IMPRESOS",
+	"utmTerm": "",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "VERMEJOR",
+        "medio": "",
+		  "utmMedium": ""
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "150.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAIL-NUEVOPRECIO-DIGITAL",
+    "parameter": "C-MKT-CC-MAIL-NUEVOPRECIO-DIGITAL",
+    "titulo": "C-MKT-CC-MAIL-NUEVOPRECIO-DIGITAL",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["MAIL"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "DIGITAL",
+	"utmTerm": "NUEVOPRECIO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAIL-NUEVOPRECIO-DIGITAL",
+        "medio": "MAIL",
+		  "utmMedium": "MAIL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAIL-NUEVOPRECIO-DIRECTO",
+    "parameter": "C-MKT-CC-MAIL-NUEVOPRECIO-DIRECTO",
+    "titulo": "C-MKT-CC-MAIL-NUEVOPRECIO-DIRECTO",
+    "vigencia": "2024-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["MAIL"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "MKTDIRECTO",
+	"utmTerm": "NUEVOPRECIO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAIL-NUEVOPRECIO-DIRECTO",
+        "medio": "",
+		  "utmMedium": "MAIL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "C-DIG-FB-001",
+    "parameter": "C-MKT-CC-C-DIG-FB-001",
+    "titulo": "C-MKT-CC-C-DIG-FB-001",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["POSTFB"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "FB-ORGANICO",
+	"utmTerm": "CONSULTAFB",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-FB-001",
+        "medio": "",
+		  "utmMedium": "POSTFB"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "C-DIG-IG-001",
+    "parameter": "C-MKT-CC-C-DIG-IG-001",
+    "titulo": "C-MKT-CC-C-DIG-IG-001",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["POSTIG"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "IG-ORGANICO",
+	"utmTerm": "CONSULTAIG",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "C-DIG-IG-001",
+        "medio": "",
+		  "utmMedium": "POSTIG"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "NUEVOPRECIO-WEB",
+    "parameter": "C-MKT-CC-NUEVOPRECIO-WEB",
+    "titulo": "C-MKT-CC-NUEVOPRECIO-WEB",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["BANNER"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "PW",
+	"utmTerm": "NUEVOPRECIO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "NUEVOPRECIO-WEB",
+        "medio": "",
+		  "utmMedium": "BANNER"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "NUEVOPRECIO-RS",
+    "parameter": "C-MKT-CC-NUEVOPRECIO-RS",
+    "titulo": "C-MKT-CC-NUEVOPRECIO-RS",
+    "vigencia": "2025-12-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["POST"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "RRSS",
+	"utmTerm": "NUEVOPRECIO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "NUEVOPRECIO-RS",
+        "medio": "",
+		  "utmMedium": "POST"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSFB_MKT_CG_DH",
+    "parameter": "C-MKT-CC-RRSSFB_MKT_CG_DH",
+    "titulo": "C-MKT-CC-RRSSFB_MKT_CG_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Facebook"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_general",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSFB_MKT_CG_DH",
+        "medio": "Facebook",
+		  "utmMedium": "Facebook"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSFB_MKT_CATA_DH",
+    "parameter": "C-MKT-CC-RRSSFB_MKT_CATA_DH",
+    "titulo": "C-MKT-CC-RRSSFB_MKT_CATA_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Facebook"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_catarata",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSFB_MKT_CATA_DH",
+        "medio": "Facebook",
+		  "utmMedium": "Facebook"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSFB_MKT_ESTUDIO25DESC_DH",
+    "parameter": "C-MKT-CC-RRSSFB_MKT_ESTUDIO25DESC_DH",
+    "titulo": "C-MKT-CC-RRSSFB_MKT_ESTUDIO25DESC_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Facebook"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_estudio25desc",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSFB_MKT_ESTUDIO25DESC_DH",
+        "medio": "Facebook",
+		  "utmMedium": "Facebook"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSIG_MKT_CG_DH",
+    "parameter": "C-MKT-CC-RRSSIG_MKT_CG_DH",
+    "titulo": "C-MKT-CC-RRSSIG_MKT_CG_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Instagram"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_general",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSIG_MKT_CG_DH",
+        "medio": "Instagram",
+		  "utmMedium": "Instagram"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSIG_MKT_CATA_DH",
+    "parameter": "C-MKT-CC-RRSSIG_MKT_CATA_DH",
+    "titulo": "C-MKT-CC-RRSSIG_MKT_CATA_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Instagram"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_catarata",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSIG_MKT_CATA_DH",
+        "medio": "Instagram",
+		  "utmMedium": "Instagram"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "RRSSIG_MKT_ESTUDIO25DESC_DH",
+    "parameter": "C-MKT-CC-RRSSIG_MKT_ESTUDIO25DESC_DH",
+    "titulo": "C-MKT-CC-RRSSIG_MKT_ESTUDIO25DESC_DH",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["Instagram"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "imagen",
+	"utmTerm": "Consulta_estudio25desc",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "RRSSIG_MKT_ESTUDIO25DESC_DH",
+        "medio": "Instagram",
+		  "utmMedium": "Instagram"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAIL-CATARATA_1",
+    "parameter": "C-MKT-CC-MAIL-CATARATA_1",
+    "titulo": "C-MKT-CC-MAIL-CATARATA_1",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["MAIL"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "MAIL",
+	"utmTerm": "CATARATA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAIL-CATARATA_1",
+        "medio": "MAIL",
+		  "utmMedium": "MAIL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAIL-CATARATA_2",
+    "parameter": "C-MKT-CC-MAIL-CATARATA_2",
+    "titulo": "C-MKT-CC-MAIL-CATARATA_2",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["MAIL"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "MAIL",
+	"utmTerm": "CATARATA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAIL-CATARATA_2",
+        "medio": "MAIL",
+		  "utmMedium": "MAIL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MAIL-CATARATA_3",
+    "parameter": "C-MKT-CC-MAIL-CATARATA_3",
+    "titulo": "C-MKT-CC-MAIL-CATARATA_3",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["MAIL"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "MAIL",
+	"utmTerm": "CATARATA",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MAIL-CATARATA_3",
+        "medio": "MAIL",
+		  "utmMedium": "MAIL"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "NUEVOPRECIO-RSIG",
+    "parameter": "C-MKT-CC-NUEVOPRECIO-RSIG",
+    "titulo": "C-MKT-CC-NUEVOPRECIO-RSIG",
+    "vigencia": "2024-04-30",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["POST"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "RRSS",
+	"utmTerm": "NUEVOPRECIO",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "NUEVOPRECIO-RSIG",
+        "medio": "POST",
+		  "utmMedium": "POST"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "PUBLI-DIG",
+    "parameter": "C-MKT-CC-PUBLI-DIG",
+    "titulo": "C-MKT-CC-PUBLI-DIG",
+    "vigencia": "2024-06-31",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["SEO"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "BOXPUBLI",
+	"utmTerm": "CGPUBLI",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "PUBLI-DIG",
+        "medio": "SEO",
+		  "utmMedium": "SEO"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  },
+  {
+    "nombrePromo": "MEJORAMOS-S",
+    "parameter": "C-MKT-CC-MEJORAMOS-S",
+    "titulo": "C-MKT-CC-MEJORAMOS-S",
+    "vigencia": "2024-06-15",
+    "promoIncluye": [""],
+    "promoRestricciones": [""],
+    "promoDatosAdicionales": [""],
+    "medios": ["valla"],
+	"esCampana2Por1": false,
+	"nombreCampana2Por1": "Sin campaña",
+	"utmContanet": "qr",
+	"utmTerm": "vs",
+    "mediosCampaigns": {
+      "SEO": {
+        "campaign": "MEJORAMOS-S",
+        "medio": "valla",
+		  "utmMedium": "valla"
+      }
+    },
+    "servicios": [
+      {
+        "nombre": "Consulta Adulto",
+        "idServicio": 1747553,
+        "price": "299.00"
+      }
+    ],
+    "servicio": "Consulta Adulto",
+    "edadMinima": 6
+  }
+]
